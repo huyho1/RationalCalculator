@@ -1,4 +1,3 @@
-CS2303: Homework 3
 rational.h   rational.c   test_rational.c
 Huy Ho
 2/16/24
@@ -16,5 +15,3 @@ To run the program, run the command:
 
 or you can run multiple files with...
 ./rational_math input1.txt input2.txt output.txt
-
-Sources: I worked alone on this assignment
